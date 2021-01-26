@@ -1,0 +1,3 @@
+[submodule "DownGit"]
+	path = DownGit
+	url = https://github.com/LeoLiXX/DownGit.git
